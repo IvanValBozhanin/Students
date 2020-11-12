@@ -1,0 +1,1 @@
+Creates Student objects and prints those with scholarship.
