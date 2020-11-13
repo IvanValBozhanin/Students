@@ -39,6 +39,7 @@ public class Main {
             double gpa = in.nextDouble();
             a[i]= new Student(name, gpa);
         }
+        System.out.println("Students with scholarships: ");
         printStudentsWithScholarships(a);
     }
 
